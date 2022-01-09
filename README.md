@@ -1,2 +1,5 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zignalssss&show_icons=true&theme=onedark )](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zignalssss&show_icons=true&theme=onedark )](https://github.com/anuraghazra/github-readme-stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats"/>
+</div>
