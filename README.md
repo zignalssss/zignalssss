@@ -24,6 +24,5 @@
   <a href="https://discord.gg/z4XbXYYK" target="_blank" ><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank" ></a>
   <a href="https://open.spotify.com/playlist/1u0h54IjMyol2PPaGNwjgB" target="_blank" ><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank" ></a> 
    <a href="https://steamcommunity.com/id/newbiesmurfefff/" target="_blank" ><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank" ></a> 
-   <a href="https://www.twitch.tv/zignalsss" target="_blank" ><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-thebadge&logo=twitch&logoColor=white" target="_blank" ></a> 
-  
+ 
 </div>
