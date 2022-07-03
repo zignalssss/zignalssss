@@ -28,6 +28,7 @@
    
    ##
    [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31rb2t765ytacno2q3xmaucsotxm&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=31rb2t765ytacno2q3xmaucsotxm&redirect=true) 
+   ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31rb2t765ytacno2q3xmaucsotxm&unique={true|1|on|yes})
 </div> 
 
 
