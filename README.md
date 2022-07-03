@@ -18,7 +18,7 @@
   
   ##
   
-  <div> 
+  <div align="center"> 
   <a href="https://www.youtube.com/channel/UC3mkb_cgdRRZF6oTmWiMSRw" target="_blank" ><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank" ></a>
   <a href="https://www.instagram.com/shogun.thapkhan/" target="_blank" ><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" ></a>
 </a> 
@@ -27,9 +27,7 @@
    <a href="https://steamcommunity.com/id/newbiesmurfefff/" target="_blank" ><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank" ></a> 
    
    ##
-   ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31rb2t765ytacno2q3xmaucsotxm&unique={true|1|on|yes})
-    [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31rb2t765ytacno2q3xmaucsotxm&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=31rb2t765ytacno2q3xmaucsotxm&redirect=true) 
-</div> 
-
-
+  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31rb2t765ytacno2q3xmaucsotxm&unique=%7Btrue%7C1%7Con%7Cyes%7D)
+  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31rb2t765ytacno2q3xmaucsotxm&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=31rb2t765ytacno2q3xmaucsotxm&redirect=true) 
+</div>
 
