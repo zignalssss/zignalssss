@@ -26,8 +26,8 @@
   <a href="https://open.spotify.com/playlist/1u0h54IjMyol2PPaGNwjgB" target="_blank" ><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank" ></a> 
    <a href="https://steamcommunity.com/id/newbiesmurfefff/" target="_blank" ><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank" ></a> 
    
-   [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31rb2t765ytacno2q3xmaucsotxm&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=31rb2t765ytacno2q3xmaucsotxm&redirect=true)
-</div>
+   <center> [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31rb2t765ytacno2q3xmaucsotxm&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=31rb2t765ytacno2q3xmaucsotxm&redirect=true) </center>
+</div> 
 
   ##
 
