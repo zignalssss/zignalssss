@@ -1,9 +1,9 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zignalssss&show_icons=true&theme=noctis_minimus)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zignalssss&show_icons=true&theme=noctis_minimus&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
 
- <div align="center">  
+ 
  [![My Skills](https://skillicons.dev/icons?i=react,js,html,css,git,arduino,py,c,cs,cpp,go,nodejs,unity)](https://skillicons.dev)
- </div>
+
  
   ##
  
