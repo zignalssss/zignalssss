@@ -32,5 +32,5 @@
 <div>
 <center>    
      [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31rb2t765ytacno2q3xmaucsotxm&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=31rb2t765ytacno2q3xmaucsotxm&redirect=true)
- <center>
+ </center>
  </div>
