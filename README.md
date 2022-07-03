@@ -27,7 +27,7 @@
    <a href="https://steamcommunity.com/id/newbiesmurfefff/" target="_blank" ><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank" ></a> 
    
    ##
-   [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31rb2t765ytacno2q3xmaucsotxm&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=31rb2t765ytacno2q3xmaucsotxm&redirect=true) [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31rb2t765ytacno2q3xmaucsotxm&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31rb2t765ytacno2q3xmaucsotxm&redirect=true)
+   [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31rb2t765ytacno2q3xmaucsotxm&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=31rb2t765ytacno2q3xmaucsotxm&redirect=true) 
 </div> 
 
 
