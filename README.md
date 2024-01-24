@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zignalssss&label=Profile%20views&color=0e75b6&style=flat" alt="zignalssss" /> </p>
 
-- 🌱 I’m currently learning **C++ ,JavaScript**
+- 🌱 I’m currently learning **C++ , JavaScript**
 
 - 👨‍💻 All of my projects are available at [https://zignalssss.github.io/ReactPortfolio/](https://zignalssss.github.io/ReactPortfolio/)
 
