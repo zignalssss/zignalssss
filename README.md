@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://zignalssss.github.io/ReactPortfolio/](https://zignalssss.github.io/ReactPortfolio/)
 
-- 💬 Ask me about **C++ , Java , React , Python**
+- 💬 Ask me about **C++ , Java , Python**
 
 - 📫 How to reach me **shogunzaza2547@gmail.com**
 
