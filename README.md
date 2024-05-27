@@ -2,7 +2,7 @@
 <h3 align="center">A Computer Engineering Student at Kasetsart University</h3>
 
 # 💫 About Me:
-🌱 I’m currently learning C++ , JavaScript<br><br>👨‍💻 All of my projects are available at https://zignalssss.github.io/ReactPortfolio/<br><br>💬 Ask me about C++ , Java , Python<br><br>📫 How to reach me shogunzaza2547@gmail.com<br><br>⚡ Fun fact Ctrl + c and Ctrl + p
+🌱 I’m currently learning Algorithm , TypeScript<br><br>👨‍💻 All of my projects are available at https://zignalssss.github.io/ReactPortfolio/<br><br>💬 Ask me about C++ , Python<br><br>📫 How to reach me shogunzaza2547@gmail.com<br><br>⚡ Fun fact Ctrl + c and Ctrl + p
 
 
 ## 🌐 Socials:
