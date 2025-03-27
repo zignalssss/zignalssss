@@ -2,7 +2,7 @@
 <h3 align="center">A Computer Engineering Student at Kasetsart University</h3>
 
 # 💫 About Me:
-🌱 I’m currently learning : Quantum Computing , Algorithm, TypeScript , Golang<br><br>👨‍💻 All of my projects are available at https://wiritipon.dev/ <br><br>💬 Ask me about C++ , Python<br><br>📫 How to reach me shogunzaza2547@gmail.com<br><br>⚡ Fun fact Ctrl + c and Ctrl + v
+🌱 I’m currently learning : Quantum Computing , Algorithm, TypeScript , Go<br><br>👨‍💻 All of my projects are available at https://wiritipon.dev/ <br><br>💬 Ask me about C++ , Python<br><br>📫 How to reach me shogunzaza2547@gmail.com<br><br>⚡ Fun fact Ctrl + c and Ctrl + v
 
 
 ## 🌐 Socials:
